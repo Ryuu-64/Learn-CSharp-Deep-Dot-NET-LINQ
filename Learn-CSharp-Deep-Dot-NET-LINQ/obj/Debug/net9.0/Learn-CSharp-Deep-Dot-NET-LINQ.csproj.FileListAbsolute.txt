@@ -1,0 +1,15 @@
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\bin\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.exe
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\bin\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.deps.json
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\bin\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.runtimeconfig.json
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\bin\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.dll
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\bin\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.pdb
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.AssemblyInfoInputs.cache
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.AssemblyInfo.cs
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.csproj.CoreCompileInputs.cache
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.dll
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\refint\Learn-CSharp-Deep-Dot-NET-LINQ.dll
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.pdb
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.genruntimeconfig.cache
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\ref\Learn-CSharp-Deep-Dot-NET-LINQ.dll
+F:\Workspace\RiderWorkspace\Learn-CSharp-Deep-Dot-NET-LINQ\Learn-CSharp-Deep-Dot-NET-LINQ\obj\Debug\net9.0\Learn-CSharp-Deep-Dot-NET-LINQ.sourcelink.json
